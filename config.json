@@ -2,6 +2,7 @@
 {
   "packages": {
     "files": "https://gravitydb.github.io/winPackages.github.io/files.bat",
-    "os": "https://gravitydb.github.io/winPackages.github.io/os.bat"
+    "os": "https://gravitydb.github.io/winPackages.github.io/os.bat",
+    "game": "https://gravitydb.github.io/winPackages.github.io/game.bat"
   }
 }
