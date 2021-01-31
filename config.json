@@ -2,6 +2,6 @@
 {
   "packages": {
     "files": "https://gravitydb.github.io/winPackages.github.io/files.bat",
-    "os": "https://gravitydb.github.io/winPackages.github.io/files.bat"
+    "os": "https://gravitydb.github.io/winPackages.github.io/os.bat"
   }
 }
